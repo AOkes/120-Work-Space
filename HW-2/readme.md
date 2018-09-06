@@ -28,4 +28,4 @@ This is the `link` to the [Course Website for Week 2](https://montana-media-arts
 
 And here is the picture of this text editor.
 
-![Text Editor](homework2_image.png)
+![Text Editor](/HW-2/homework2_image.png)
