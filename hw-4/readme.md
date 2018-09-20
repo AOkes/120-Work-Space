@@ -1,5 +1,1 @@
-# Empty p5 sketch.
-
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
-
-Current p5 version -> 0.7.1
+For this assignment, I first thought of doing a self portrait, instead of doing a monster sketch.  However, midway through, I made the decision to do a monster sketch without undoing all of my work on the self portrait sketch, and therefore, I came up with the idea of doing a zombie for my portrait.  After working for awhile, my main issues were trying to work out the dimensions for my portrait.  As much as this was an assignment to be able to run free with the proportions, I struggled to feel like mine didn't seem inadequate.  To solve this problem, I decided to refer to the example portrait given on the course website so that I could work out my proportions in a way that I felt would best do the zombie justice and give him some terror, like a true zombie. This helped me with placing my shapes for different parts, and also gave me understanding for how to place things to not make the portrait so complicated it becomes nothing more than a jumble of shapes.
