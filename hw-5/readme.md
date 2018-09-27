@@ -1,5 +1,1 @@
-# Empty p5 sketch.
-
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
-
-Current p5 version -> 0.7.1
+For this assignment, I decided I wanted to continue my theme from last week with another Zombie, also because of October fast approaching.  With this assignment I had no real issues with building it, although the concept of rotation was somewhat new to me, which I played with on the example for quite some time before working on my project.  Overall I am very pleased with how it turned out, it definitely gives a creepy Halloween feel to it, and the rotation was fun to have.
