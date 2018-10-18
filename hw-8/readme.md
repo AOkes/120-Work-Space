@@ -1,0 +1,1 @@
+For this assignment, I played around with the code for a bit till I found something I found interesting.  With this sketch, the look I was trying to go for was a sort of peacock tail.  While doing this assignment I ran into no real issues with the code aside from guess and checking to get the for loop right. 
